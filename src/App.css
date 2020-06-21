@@ -18,12 +18,12 @@ body {
   display: flex;
   width: 80%;
   margin: 4rem auto 0 auto;
-  color:wheat;
+  color:black;
 }
 
 .main-product-container {
   background-color:wheat;
-  padding: 2rem 2rem;
+  padding: 1rem 1rem;
 }
 
 .main-sidebar-container {
@@ -32,7 +32,7 @@ body {
 
 .side-nav__text {
   font-weight: 109;
-  margin-left: 2rem;
+  margin-left: 1rem;
 }
 
 .card {
