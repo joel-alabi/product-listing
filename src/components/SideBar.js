@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 
-class SideItem extends Component {
+class Sidebar extends Component {
   render() {
     return (
       <div className="main-sidebar-container">
@@ -91,4 +91,4 @@ class SideItem extends Component {
   }
 }
 
-export default SideItem;
+export default Sidebar;
