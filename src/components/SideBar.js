@@ -15,7 +15,7 @@ class Sidebar extends Component {
           >
             <path d="M1 4h14v10a2 2 0 0 1-2 2H3a2 2 0 0 1-2-2V4zm7-2.5A2.5 2.5 0 0 0 5.5 4h-1a3.5 3.5 0 1 1 7 0h-1A2.5 2.5 0 0 0 8 1.5z" />
           </svg>
-          <h4 className="side-nav__text">Purse</h4>
+          <h3 className="side-nav__text">Purse</h3>
         </div>
         
         <div className="side-nav">
@@ -36,7 +36,7 @@ class Sidebar extends Component {
               d="M1.61 5.687A.5.5 0 0 1 2 5.5h12a.5.5 0 0 1 .488.608l-1.826 8.217a1.5 1.5 0 0 1-1.464 1.175H4.802a1.5 1.5 0 0 1-1.464-1.175L1.512 6.108a.5.5 0 0 1 .098-.42z"
             />
           </svg>
-          <h4 className="side-nav__text"> Bags</h4>
+          <h3 className="side-nav__text"> Bags</h3>
         </div>
 
         <div className="side-nav">
@@ -54,7 +54,7 @@ class Sidebar extends Component {
             />
             <path d="M2 1a2 2 0 0 0-2 2v1h16V3a2 2 0 0 0-2-2H2zm14 4H0v9a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V5z" />
           </svg>
-          <h4 className="side-nav__text">Shoes</h4>
+          <h3 className="side-nav__text">Shoes</h3>
         </div>
 
         <div className="side-nav">
@@ -71,7 +71,7 @@ class Sidebar extends Component {
               d="M9.828 3h3.982a2 2 0 0 1 1.992 2.181l-.637 7A2 2 0 0 1 13.174 14H2.826a2 2 0 0 1-1.991-1.819l-.637-7a1.99 1.99 0 0 1 .342-1.31L.5 3a2 2 0 0 1 2-2h3.672a2 2 0 0 1 1.414.586l.828.828A2 2 0 0 0 9.828 3zm-8.322.12C1.72 3.042 1.95 3 2.19 3h5.396l-.707-.707A1 1 0 0 0 6.172 2H2.5a1 1 0 0 0-1 .981l.006.139z"
             />
           </svg>
-          <h4 className="side-nav__text">Laptop Bags</h4>
+          <h3 className="side-nav__text">Laptop Bags</h3>
         </div>
       </div>
     );

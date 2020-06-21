@@ -5,6 +5,7 @@ class Products extends Component {
     return (
       <div className="main-product-container">
         <div className='Container'>
+        <h1 style={{textAlign:"center",fontStyle:"italic",fontSize:"3.5em"}}>GRAJOE ENTERPRICE AND STATIONARY</h1>
           <div className='row'>
             <div className='col-3'>
               <div className="card">
