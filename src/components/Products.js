@@ -88,7 +88,7 @@ class Products extends Component {
                 </div>
 
                 <div className="card__text">
-                  <h1 className="card__text--heading">Median Bag</h1>
+                  <h1 className="card__text--heading">Bag</h1>
                   <p className="card__text--paragraph">5 pc(s)</p>
                 </div>
 
@@ -168,8 +168,8 @@ class Products extends Component {
 
                 <div className="card__price">
                   <h3 className="card__price-amount">
-                    <span className="card__price-amount--old">$420</span>
-                    <span className="card__price-amount--new">$410</span>
+                    <span className="card__price-amount--old">$42.0</span>
+                    <span className="card__price-amount--new">$41.0</span>
                   </h3>
 
                   <div className="cart-btn">
@@ -205,8 +205,8 @@ class Products extends Component {
 
                 <div className="card__price">
                   <h3 className="card__price-amount">
-                    <span className="card__price-amount--old">$720</span>
-                    <span className="card__price-amount--new">$510</span>
+                    <span className="card__price-amount--old">$72.0</span>
+                    <span className="card__price-amount--new">$51.0</span>
                   </h3>
 
                   <div className="cart-btn">
@@ -236,14 +236,14 @@ class Products extends Component {
                 </div>
 
                 <div className="card__text">
-                  <h1 className="card__text--heading">shoet</h1>
+                  <h1 className="card__text--heading">kicks </h1>
                   <p className="card__text--paragraph">26 pc(s)</p>
                 </div>
 
                 <div className="card__price">
                   <h3 className="card__price-amount">
-                    <span className="card__price-amount--old">$1220</span>
-                    <span className="card__price-amount--new">$1010</span>
+                    <span className="card__price-amount--old">$1,220</span>
+                    <span className="card__price-amount--new">$1,010</span>
                   </h3>
 
                   <div className="cart-btn">
@@ -273,14 +273,14 @@ class Products extends Component {
                 </div>
 
                 <div className="card__text">
-                  <h1 className="card__text--heading">St shoe</h1>
+                  <h1 className="card__text--heading">Stephen shoes</h1>
                   <p className="card__text--paragraph">42 pc(s)</p>
                 </div>
 
                 <div className="card__price">
                   <h3 className="card__price-amount">
-                    <span className="card__price-amount--old">$1520</span>
-                    <span className="card__price-amount--new">$1310</span>
+                    <span className="card__price-amount--old">$1,520</span>
+                    <span className="card__price-amount--new">$1,310</span>
                   </h3>
 
                   <div className="cart-btn">
@@ -310,14 +310,14 @@ class Products extends Component {
                 </div>
 
                 <div className="card__text">
-                  <h1 className="card__text--heading">Chevron Blue Laptop Bag</h1>
+                  <h1 className="card__text--heading">mhickcy amry-green Laptop Bag</h1>
                   <p className="card__text--paragraph">12 pc(s)</p>
                 </div>
 
                 <div className="card__price">
                   <h3 className="card__price-amount">
-                    <span className="card__price-amount--old">$2520</span>
-                    <span className="card__price-amount--new">$2310</span>
+                    <span className="card__price-amount--old">$2,520</span>
+                    <span className="card__price-amount--new">$2,310</span>
                   </h3>
 
                   <div className="cart-btn">
@@ -347,14 +347,14 @@ class Products extends Component {
                 </div>
 
                 <div className="card__text">
-                  <h1 className="card__text--heading"> Laptop Bag</h1>
+                  <h1 className="card__text--heading">classic Laptop</h1>
                   <p className="card__text--paragraph">11 pc(s)</p>
                 </div>
 
                 <div className="card__price">
                   <h3 className="card__price-amount">
-                    <span className="card__price-amount--old">$3520</span>
-                    <span className="card__price-amount--new">$3310</span>
+                    <span className="card__price-amount--old">$3,520</span>
+                    <span className="card__price-amount--new">$3,310</span>
                   </h3>
 
                   <div className="cart-btn">
@@ -384,14 +384,14 @@ class Products extends Component {
                 </div>
 
                 <div className="card__text">
-                  <h1 className="card__text--heading">Chevron Blue Laptop Bag</h1>
+                  <h1 className="card__text--heading"> soldier Handbag</h1>
                   <p className="card__text--paragraph">12 pc(s)</p>
                 </div>
 
                 <div className="card__price">
                   <h3 className="card__price-amount">
-                    <span className="card__price-amount--old">$2520</span>
-                    <span className="card__price-amount--new">$2310</span>
+                    <span className="card__price-amount--old">$2,520</span>
+                    <span className="card__price-amount--new">$2,310</span>
                   </h3>
 
                   <div className="cart-btn" style={{color:'green'}}>
@@ -427,8 +427,8 @@ class Products extends Component {
 
                 <div className="card__price">
                   <h3 className="card__price-amount">
-                    <span className="card__price-amount--old">$500</span>
-                    <span className="card__price-amount--new">$410</span>
+                    <span className="card__price-amount--old">$50.0</span>
+                    <span className="card__price-amount--new">$41.0</span>
                   </h3>
 
                   <div className="cart-btn">

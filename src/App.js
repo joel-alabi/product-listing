@@ -8,7 +8,7 @@ function App() {
     <div>
       <div className="Container-fluid">
         <div className="row">
-          <div className="col-2">
+          <div className="col-2" style={{backgroundColor:'gray'}}>
             <SideBar></SideBar>
           </div>
           <div className="col-10">

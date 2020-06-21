@@ -18,16 +18,16 @@ body {
   display: flex;
   width: 80%;
   margin: 4rem auto 0 auto;
-  color: blue;
+  color:wheat;
 }
 
 .main-product-container {
-  background-color: rgba(128, 128, 128, 0.2);
+  background-color:wheat;
   padding: 2rem 2rem;
 }
 
 .main-sidebar-container {
-  background-color:whitesmoke;
+  background-color:gray;
 }
 
 .side-nav__text {
