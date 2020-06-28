@@ -46,7 +46,7 @@ class Products extends Component {
             </div>
             <div className='col-3'>
               <div className="card">
-                <div className="card__percent">20%</div>
+                <div className="card__percent">10%</div>
                 <div className="card__image-container">
                   <img className="card__image" src="/purse.jpg" alt="Bag" />
                 </div>
@@ -311,7 +311,7 @@ class Products extends Component {
                 </div>
 
                 <div className="card__text">
-                  <h1 className="card__text--heading">mhickcy amry-green Laptop Bag</h1>
+                  <h1 className="card__text--heading">mhickcy army-green Laptop Bag</h1>
                   <p className="card__text--paragraph">12 pc(s)</p>
                 </div>
 
